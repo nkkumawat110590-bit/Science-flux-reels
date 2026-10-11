@@ -5,6 +5,7 @@ Tap a chapter, then tap the download button (↓) at the top right to save the P
 
 | Date | Chapter | PDF | Slides |
 |---|---|---|---|
+| 11 Oct 2026 | Current Electricity (Class 12): 8 slides, 31 panels | [Download PDF](2026-10-11_current_electricity/current_electricity_formula_sheet.pdf) | [Slides](2026-10-11_current_electricity/) |
 | 10 Oct 2026 | Kinematics: projectile + relative motion (Class 11): 8 slides, 31 panels | [Download PDF](2026-10-10_kinematics/kinematics_formula_sheet.pdf) | [Slides](2026-10-10_kinematics/) |
 | 9 Oct 2026 | Electromagnetic Waves (Class 12, Ch 8): 28 cards | [Download PDF](2026-10-09_em_waves/em_waves.pdf) | [Slides](2026-10-09_em_waves/) |
 | Carousel | Electrostatics (Class 12) | [Download PDF](day04_electrostatics/carousel.pdf) | [Slides](day04_electrostatics/) |
