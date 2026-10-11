@@ -1,0 +1,13 @@
+Notebook Proof #03: why are curved roads banked (outer edge higher)? 🚗
+
+On a SMOOTH banked road (no friction), only two forces act on the car: mg and the normal force N.
+• N sinθ = mv²/r (horizontal component, towards the centre of the curve)
+• N cosθ = mg (no vertical acceleration)
+• Divide: tanθ = v²/(rg). The mass cancels.
+
+Example: v = 72 km/h = 20 m/s, r = 100 m, g = 10 m/s² → tanθ = 0.4, θ ≈ 21.8°.
+With friction at its limit (f = μN, acting down the slope; μ tanθ < 1): v_max = √[rg(μ + tanθ)/(1 − μ tanθ)]; for μ = 0.2, v_max ≈ 25.5 m/s ≈ 92 km/h.
+
+Question for you: on this smooth banked road, what happens if a car goes slower than 20 m/s? Comment 👇
+
+#circularmotion #bankingofroads #jeephysics #neetphysics #jeemains #jeeadvanced #physicsreels #notebookproof #sciencefluxclasses
