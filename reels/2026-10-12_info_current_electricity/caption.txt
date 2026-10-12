@@ -1,0 +1,15 @@
+Current Electricity: poora chapter, ek video mein ⚡ 27 pages of revision notes (Class 12, JEE Main • JEE Advanced • NEET)
+
+Inside:
+• Drift speed: I = neAv_d, J = σE (Ohm's law, microscopic form)
+• ρ vs T for metals, alloys and semiconductors; colour code
+• Stretching at fixed volume: R ∝ l²; series, parallel, balanced bridges, infinite ladder
+• EMF, internal resistance: V = ε − Ir (discharging), V = ε + Ir (charging)
+• Kirchhoff's laws, Wheatstone bridge P/Q = R/S (galvanometer current zero), metre bridge
+• Potentiometer, cells in series/parallel/mixed grouping
+• Power: P = I²R = V²/R (pure resistance only); maximum power transfer at R = r
+
+Pause the video on any page to read it. Full notes PDF: comment NOTES 📩
+Save karo, revision mein kaam aayega. Follow @science_flux_classes
+
+#physics #currentelectricity #jeemains #jeeadvanced #neet #neetphysics #class12physics #physicsnotes #revisionnotes #jeephysics #wheatstonebridge #kirchhofflaws #sciencefluxclasses #studygram
