@@ -1,0 +1,14 @@
+Kya bhaari rocket ko zyada escape speed chahiye? 🚀 Notebook Proof #04
+
+Proof (no air drag; Earth's rotation and other bodies ignored):
+• Gravity is conservative → KE + U = constant
+• Escape = reach infinity, where U = 0 and minimum speed = 0
+• ½ m v_e² − GMm/R = 0 → v_e = √(2GM/R)
+• GM = gR² → v_e = √(2gR) ≈ 11.2 km/s (from Earth's surface)
+
+Twist: m cancels, and energy is a scalar, so the same v_e works in ANY direction (as long as the path does not hit the Earth). And v_e = √2 × orbital speed (7.9 km/s).
+
+Comment: Moon se escape speed zyada hogi ya kam? 👇
+Save karo, revision mein kaam aayega. Follow @science_flux_classes for daily physics proofs.
+
+#physics #jeemains #jeeadvanced #neet #neetphysics #jeephysics #gravitation #escapevelocity #physicsproof #iitjee #class11physics #physicsreels #sciencefluxclasses #studygram
