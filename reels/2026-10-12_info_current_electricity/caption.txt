@@ -7,7 +7,7 @@ Inside:
 • EMF, internal resistance: V = ε − Ir (discharging), V = ε + Ir (charging)
 • Kirchhoff's laws, Wheatstone bridge P/Q = R/S (galvanometer current zero), metre bridge
 • Potentiometer, cells in series/parallel/mixed grouping
-• Power: P = I²R = V²/R (pure resistance only); maximum power transfer at R = r
+• Power: P = I²R = V²/R (pure resistance only); maximum power transfer at R = r (source ε, r fixed; load R varied)
 
 Pause the video on any page to read it. Full notes PDF: comment NOTES 📩
 Kaunsa page sabse tough laga? Page number comment karo 👇
