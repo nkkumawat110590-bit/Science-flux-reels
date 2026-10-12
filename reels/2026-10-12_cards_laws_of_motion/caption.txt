@@ -1,0 +1,14 @@
+Laws of Motion + Friction: poora chapter, 31 formula cards 📘 (Class 11, JEE Main • JEE Advanced • NEET)
+
+Inside:
+• Newton's laws: F_net = dp/dt (F = ma only for constant mass, inertial frame)
+• Impulse J = ∫F dt = Δp; momentum conserved only when net external force = 0
+• Atwood machine: a = (m₁ − m₂)g/(m₁ + m₂) (light string, frictionless pulley)
+• Lift: N = m(g ± a) (+ for upward acceleration)
+• Friction: fs ≤ μs N, fk = μk N; angle of repose tan θ = μs
+• Banked road without friction: tan θ = v²/rg
+
+Swipe through the cards in the video, pause and revise. Full carousel PDF: comment NOTES 📩
+Kaunsa card sabse useful laga? Number comment karo 👇
+
+#physics #lawsofmotion #friction #jeemains #jeeadvanced #neet #neetphysics #class11physics #physicsnotes #formulasheet #jeephysics #newtonslaws #sciencefluxclasses #studygram
