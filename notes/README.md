@@ -4,6 +4,7 @@ Free JEE Main / JEE Advanced / NEET physics revision notes. One complete chapter
 
 | Date | Chapter | Pages | PDF |
 |---|---|---|---|
+| 2026-10-13 | Electrostatic Potential and Capacitance (33 pages, with JEE Main + Advanced level questions) | [pages](2026-10-13_potential_capacitance/) | [download PDF](https://raw.githubusercontent.com/nkkumawat110590-bit/Science-flux-reels/main/notes/2026-10-13_potential_capacitance/potential_capacitance.pdf) |
 | 2026-10-13 | Work, Energy and Power (32 pages, with JEE Main + Advanced level questions) | [pages](2026-10-13_work_energy_power/) | [download PDF](https://raw.githubusercontent.com/nkkumawat110590-bit/Science-flux-reels/main/notes/2026-10-13_work_energy_power/work_energy_power.pdf) |
 | 2026-10-12 | Current Electricity (27 pages) | [pages](2026-10-12_current_electricity/) | [download PDF](https://raw.githubusercontent.com/nkkumawat110590-bit/Science-flux-reels/main/notes/2026-10-12_current_electricity/current_electricity.pdf) |
 | 2026-10-12 | Laws of Motion + Friction (24 pages) | [pages](2026-10-12_laws_of_motion/) | [download PDF](https://raw.githubusercontent.com/nkkumawat110590-bit/Science-flux-reels/main/notes/2026-10-12_laws_of_motion/laws_of_motion.pdf) |

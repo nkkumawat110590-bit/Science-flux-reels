@@ -1,0 +1,15 @@
+Electrostatic Potential and Capacitance: poora chapter, ek video mein ⚡ 33 pages of revision notes + solved JEE Main and JEE Advanced level questions (Class 12, JEE Main • JEE Advanced • NEET)
+
+Inside:
+• Potential: V = kq/r for a point charge (V = 0 at infinity); E = −dV/dr
+• Dipole, ring, disc, shells, solid sphere; equipotential surfaces ⟂ field lines
+• Conductors in equilibrium: E = 0 inside, charge on the outer surface, V constant
+• Parallel plate: C = ε₀A/d (vacuum, d ≪ plate size); with a dielectric filling the gap C = κε₀A/d
+• Energy U = Q²/2C = ½CV² = ½QV; charge sharing always loses energy as heat
+• Battery connected (V fixed) vs disconnected (Q fixed) table; RC charging and discharging
+
+Pause on any page to read it (constants used: k = 9×10⁹ N m² C⁻², ε₀ = 8.85×10⁻¹² F/m). Full notes PDF: comment NOTES 📩
+Kaunsa question sabse tough laga? Number comment karo 👇
+Save karo, revision mein kaam aayega. Follow @science_flux_classes
+
+#physics #capacitance #electrostatics #jeemains #jeeadvanced #neet #neetphysics #class12physics #physicsnotes #revisionnotes #jeephysics #sciencefluxclasses #studygram
