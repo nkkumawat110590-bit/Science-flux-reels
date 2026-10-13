@@ -5,6 +5,7 @@ Naming: `pdfs/<chapter>/<chapter>_notes.pdf` and `pdfs/<chapter>/<chapter>_carou
 
 | Chapter | Class | Notes PDF | Carousel PDF(s) |
 |---|---|---|---|
+| Gravitation | 11 | [notes (33 p)](gravitation/gravitation_notes.pdf) | — |
 | Kinematics | 11 | — | [formula sheet (8 p)](kinematics/kinematics_carousel_formula_sheet.pdf) |
 | Projectile Motion | 11 | — | [carousel (5 p)](projectile_motion/projectile_motion_carousel.pdf) |
 | Work, Energy and Power | 11 | [notes (32 p)](work_energy_power/work_energy_power_notes.pdf) | — |
