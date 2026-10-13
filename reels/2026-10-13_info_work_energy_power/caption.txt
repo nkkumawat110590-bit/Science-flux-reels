@@ -1,0 +1,15 @@
+Work, Energy and Power: poora chapter, ek video mein ⚡ 32 pages of revision notes + solved JEE Main and JEE Advanced level questions (Class 11, JEE Main • JEE Advanced • NEET)
+
+Inside:
+• Work: W = F·s for a constant force; W = ∫F·dx = area under the F–x graph for a variable force
+• Work–energy theorem: work by ALL forces = ΔK (valid in any frame, include pseudo force in a non-inertial frame)
+• Conservative forces: F = −dU/dx; mechanical energy conserved only when non-conservative forces do no work
+• Equilibrium from U(x): stable at a minimum, unstable at a maximum
+• Power P = F·v; vertical circle (string): u ≥ √(5gr) at the bottom to complete the circle
+• Spring PE ½kx², chain and rope problems, efficiency
+
+Pause on any page to read it. Full notes PDF: comment NOTES 📩
+Kaunsa question sabse tough laga? Number comment karo 👇
+Save karo, revision mein kaam aayega. Follow @science_flux_classes
+
+#physics #workenergypower #jeemains #jeeadvanced #neet #neetphysics #class11physics #physicsnotes #revisionnotes #jeephysics #verticalcircle #sciencefluxclasses #studygram
