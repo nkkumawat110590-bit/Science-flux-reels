@@ -6,7 +6,7 @@ Inside:
 • Conservative forces: F = −dU/dx; mechanical energy conserved only when non-conservative forces do no work
 • Equilibrium from U(x): stable at a minimum, unstable at a maximum
 • Power P = F·v; vertical circle (string): u ≥ √(5gr) at the bottom to complete the circle
-• Spring PE ½kx², chain and rope problems, efficiency
+• Spring PE ½kx² (x measured from the natural length), chain and rope problems, efficiency
 
 Pause on any page to read it. Full notes PDF: comment NOTES 📩
 Kaunsa question sabse tough laga? Number comment karo 👇
