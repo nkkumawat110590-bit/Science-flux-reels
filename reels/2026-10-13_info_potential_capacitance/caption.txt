@@ -5,7 +5,7 @@ Inside:
 • Dipole, ring, disc, shells, solid sphere; equipotential surfaces ⟂ field lines
 • Conductors in equilibrium: E = 0 inside, charge on the outer surface, V constant
 • Parallel plate: C = ε₀A/d (vacuum, d ≪ plate size); with a dielectric filling the gap C = κε₀A/d
-• Energy U = Q²/2C = ½CV² = ½QV; charge sharing always loses energy as heat
+• Energy U = Q²/2C = ½CV² = ½QV; joining charged capacitors at different potentials loses energy (heat + radiation): ΔU = C₁C₂(V₁ ∓ V₂)²/2(C₁+C₂)
 • Battery connected (V fixed) vs disconnected (Q fixed) table; RC charging and discharging
 
 Pause on any page to read it (constants used: k = 9×10⁹ N m² C⁻², ε₀ = 8.85×10⁻¹² F/m). Full notes PDF: comment NOTES 📩
