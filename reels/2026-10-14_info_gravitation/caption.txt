@@ -2,11 +2,11 @@ Gravitation: poora chapter, ek video mein 🌍 33 pages of revision notes + solv
 
 Inside:
 • Newton's law F = Gm₁m₂/r² (point masses or spherically symmetric bodies, r between centres); Kepler's laws, areal velocity = L/2m (central force)
-• g at height g/(1 + h/R)² (any h) vs g(1 − 2h/R) (only h ≪ R); g at depth g(1 − d/R) (uniform Earth); g − ω²R cos²λ (rotating spherical Earth)
+• g at height g/(1 + h/R)² (any h) vs g(1 − 2h/R) (only h ≪ R); g at depth g(1 − d/R) (uniform Earth); g − ω²R cos²λ (rotating spherical Earth, ω²R ≪ g)
 • Field and potential of ring, rod, uniform shell (E = 0 inside, V = −GM/R) and uniform solid sphere (V_centre = 1.5 V_surface), V = 0 at infinity
 • Escape speed √(2gR) ≈ 11.2 km/s (no air drag, ignoring Earth's rotation); orbital speed √(GM/r), T = 2π√(r³/GM), E = −GMm/2r (circular orbit)
 • Geostationary (equatorial, T = 24 h, h ≈ 36,000 km) vs polar satellites; weightlessness = free fall (gravity is NOT zero in orbit)
-• Orbit shape vs launch speed, transfer between orbits, cavity problems, binary stars, tunnel through a uniform Earth (T ≈ 84.6 min)
+• Orbit shape vs launch speed, transfer between orbits, cavity problems, binary stars, tunnel through a uniform, non-rotating Earth (smooth tunnel, T ≈ 84.6 min)
 
 Pause on any page to read it (constants used: G = 6.67×10⁻¹¹ N m² kg⁻², g = 9.8 m/s², R = 6.4×10⁶ m, M = 6×10²⁴ kg). Full notes PDF: comment NOTES 📩
 Kaunsa question sabse tough laga? Number comment karo 👇
