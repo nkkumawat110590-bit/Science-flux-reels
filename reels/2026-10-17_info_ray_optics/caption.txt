@@ -5,7 +5,7 @@ Inside:
 • Snell's law, apparent depth h/n (near-normal viewing), lateral shift t·sin(i − r)/cos r (parallel slab, same medium both sides)
 • TIR only from denser to rarer with i > C: sin C = 1/n into air (glass 41.8°, water 48.6°); optical fibre sin θa = √(n₁² − n₂²) (entry from air)
 • Thin lens 1/v − 1/u = 1/f, lensmaker 1/f = (n − 1)(1/R₁ − 1/R₂) (thin lens in air); thin glass (n = 1.5) lens in water f_w = 4f_a; P = P₁ + P₂ (thin lenses in contact)
-• Silvered lens P = 2P_L + P_M (thin lens, paraxial), displacement method f = (D² − x²)/4D (D > 4f), prism n = sin((A + δm)/2)/sin(A/2) (minimum deviation), δ = (n − 1)A (thin prism, small i), dispersion, achromatic and direct-vision pairs
+• Silvered lens P = 2P_L + P_M (thin lens, paraxial), displacement method f = (D² − x²)/4D (D > 4f), prism n = sin((A + δm)/2)/sin(A/2) (prism in air, minimum deviation), δ = (n − 1)A (thin prism, small i), dispersion, achromatic and direct-vision pairs
 • Human eye defects, simple microscope M = 1 + D/f (image at D) or D/f (relaxed eye), telescope M = f_o/f_e and L = f_o + f_e (normal adjustment), Newtonian and Cassegrain telescopes
 
 Pause on any page to read it (conventions used: Cartesian sign convention with light from the left, paraxial rays, thin lenses in air unless stated, n_glass = 1.5, n_water = 4/3, D = 25 cm). Full notes PDF: comment NOTES 📩
