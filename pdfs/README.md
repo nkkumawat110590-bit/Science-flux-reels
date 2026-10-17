@@ -5,6 +5,7 @@ Naming: `pdfs/<chapter>/<chapter>_notes.pdf` and `pdfs/<chapter>/<chapter>_carou
 
 | Chapter | Class | Notes PDF | Carousel PDF(s) |
 |---|---|---|---|
+| Ray Optics and Optical Instruments | 12 | [notes (35 p)](ray_optics/ray_optics_notes.pdf) | — |
 | Gravitation | 11 | [notes (33 p)](gravitation/gravitation_notes.pdf) | — |
 | Kinematics | 11 | — | [formula sheet (8 p)](kinematics/kinematics_carousel_formula_sheet.pdf) |
 | Projectile Motion | 11 | — | [carousel (5 p)](projectile_motion/projectile_motion_carousel.pdf) |
