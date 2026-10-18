@@ -5,6 +5,7 @@ Naming: `pdfs/<chapter>/<chapter>_notes.pdf` and `pdfs/<chapter>/<chapter>_carou
 
 | Chapter | Class | Notes PDF | Carousel PDF(s) |
 |---|---|---|---|
+| Electromagnetic Induction | 12 | [notes (33 p)](emi/emi_notes.pdf) | — |
 | Thermodynamics | 11 | [notes (32 p)](thermodynamics/thermodynamics_notes.pdf) | — |
 | Ray Optics and Optical Instruments | 12 | [notes (35 p)](ray_optics/ray_optics_notes.pdf) | — |
 | Gravitation | 11 | [notes (33 p)](gravitation/gravitation_notes.pdf) | — |

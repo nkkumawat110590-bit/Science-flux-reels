@@ -1,0 +1,16 @@
+Electromagnetic Induction: poora chapter, ek video mein ⚡ 33 pages of revision notes + solved JEE Main and JEE Advanced level questions (Class 12, JEE Main • JEE Advanced • NEET)
+
+Inside:
+• Magnetic flux Φ = BA cosθ (uniform B, θ from the normal), Faraday's law ε = −N dΦ/dt, charge flow q = NΔΦ/R (R = total resistance, independent of how fast the flux changes)
+• Lenz's law: induced current opposes the CHANGE in flux (energy conservation); magnet and loop, loop beside a long wire
+• Motional EMF ε = Bvl (uniform B; rod, v and B mutually perpendicular), rod on rails: force B²l²v/R, terminal speed FR/(B²l²), stopping distance v₀τ; arbitrary-shaped conductor (effective length), rod near a long wire (μ₀Iv/2π) ln(b/a)
+• Rotating rod ½Bωl² and disc ½BωR² (axis parallel to uniform B), loop crossing a field region (EMF and force graphs), AC generator ε₀ = NBAω (axis perpendicular to uniform B)
+• Induced electric field ∮E·dl = −dΦ/dt (non-conservative); cylindrical region: E = (r/2)dB/dt inside, (R²/2r)dB/dt outside; eddy currents, uses and laminated cores
+• Self-inductance L = μ₀n²Al (long air-core solenoid), toroid, mutual inductance M = μ₀n₁n₂πr₁²l (coaxial solenoids), coupling M = k√(L₁L₂) with 0 ≤ k ≤ 1, series/parallel inductors
+• Energy ½LI² (ideal inductor), energy density B²/2μ₀ (vacuum), LR growth and decay with τ = L/R (t from the switching instant), LC oscillations ω = 1/√(LC) (no resistance)
+
+Pause on any page to read it (conventions used: uniform B unless stated, ideal inductors, t measured from the switching instant, μ₀ = 4π × 10⁻⁷ T m/A). Full notes PDF: comment NOTES 📩
+Magnet ko copper tube mein girao toh woh dheere kyun girta hai? Comment karo 👇
+Save karo, revision mein kaam aayega. Follow @science_flux_classes
+
+#physics #electromagneticinduction #faradayslaw #lenzslaw #jeemains #jeeadvanced #neet #neetphysics #class12physics #physicsnotes #revisionnotes #jeephysics #sciencefluxclasses #studygram
