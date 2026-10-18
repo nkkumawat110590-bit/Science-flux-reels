@@ -1,17 +1,16 @@
 Oscillations / SHM: poora chapter, ek video mein 🌀 37 pages of revision notes + solved JEE Main and JEE Advanced level questions (Class 11, JEE Main • JEE Advanced • NEET)
 
 Inside:
-• SHM: F = −kx, a = −ω²x (x from equilibrium, k = force constant, ω = angular frequency); x = A sin(ωt + φ), v = ω√(A² − x²) (A = amplitude, φ = initial phase)
-• Phase relations, x/v/a graphs, reference circle, v–x ellipse, a–x line
+• SHM: F = −kx, a = −ω²x (x from equilibrium, k = force constant, ω = angular frequency); x = A sin(ωt + φ), speed |v| = ω√(A² − x²) (A = amplitude, φ = initial phase)
 • Energy E = ½kA² (no friction, no damping, PE zero at equilibrium); K and U repeat every half period, time averages E/2 each
 • Spring–block T = 2π√(m/k) (ideal massless spring: horizontal, vertical or smooth incline); series 1/k = 1/k₁ + 1/k₂, parallel k₁ + k₂; cut spring kl = constant (uniform spring); massive spring 2π√((m + m_s/3)/k) (uniform spring of mass m_s, one end fixed)
-• Simple pendulum T = 2π√(l/g) (small angle, light string, rigid support); g_eff = |g − a| in a lift or cart (a = acceleration of the support); very long pendulum, at most 2π√(R/g) ≈ 84.6 min (R = earth's radius)
+• Simple pendulum T = 2π√(l/g) (small angle, light string, rigid support); g_eff = |g⃗ − a⃗| (vector difference; lift: g ± a, cart: √(g² + a²); a = acceleration of the support); very long pendulum, at most 2π√(R/g) ≈ 84.6 min (R = earth's radius)
 • Physical pendulum 2π√(I/mgd) (rigid body, fixed horizontal axis, small angle, d = pivot to centre of mass), torsional 2π√(I/C) (elastic limit, C = torsion constant), U-tube 2π√(L/2g) (uniform tube, non-viscous liquid, L = column length), tunnel through the earth 2π√(R/g) (uniform earth, smooth tunnel)
 • From U(x): ω² = U''(x₀)/m (small oscillations about a stable equilibrium x₀); superposition, Lissajous figures
 • Damped amplitude A₀e^(−bt/2m) (damping force −bv, light damping b < 2√(km)); forced oscillations: largest amplitude when the driving ω_d ≈ ω (light damping)
 
 Pause on any page to read it (conventions: x from equilibrium, ideal massless springs, frictionless surfaces, uniform g unless stated). Full notes PDF: comment NOTES 📩
-Pendulum ko lift mein le jao toh period kyun badalta hai? Comment karo 👇
+Pendulum ko ACCELERATE karti lift mein le jao toh period kyun badalta hai? (constant velocity pe nahi badalta) Comment karo 👇
 Save karo, revision mein kaam aayega. Follow @science_flux_classes
 
-#physics #shm #oscillations #pendulum #jeemains #jeeadvanced #neet #neetphysics #class11physics #physicsnotes #revisionnotes #jeephysics #sciencefluxclasses #studygram
+#physics #shm #oscillations #pendulum #jeemains #jeeadvanced #neet #neetphysics #class11physics #physicsnotes #revisionnotes #jeephysics #sciencefluxclasses
