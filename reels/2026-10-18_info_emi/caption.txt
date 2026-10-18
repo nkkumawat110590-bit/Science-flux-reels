@@ -3,7 +3,7 @@ Electromagnetic Induction: poora chapter, ek video mein ⚡ 33 pages of revision
 Inside:
 • Magnetic flux Φ = BA cosθ (uniform B, θ from the normal), Faraday's law ε = −N dΦ/dt, charge flow q = NΔΦ/R (R = total resistance, independent of how fast the flux changes)
 • Lenz's law: induced current opposes the CHANGE in flux (energy conservation); magnet and loop, loop beside a long wire
-• Motional EMF ε = Bvl (uniform B; rod, v and B mutually perpendicular), rod on rails: force B²l²v/R, terminal speed FR/(B²l²), stopping distance v₀τ; arbitrary-shaped conductor (effective length), rod near a long wire (μ₀Iv/2π) ln(b/a)
+• Motional EMF ε = Bvl (uniform B; rod, v and B mutually perpendicular), rod on rails: force B²l²v/R (R = total resistance), terminal speed FR/(B²l²) (constant force F, smooth rails, uniform B ⊥ plane of rails), stopping distance v₀τ (no applied force, smooth rails, τ = mR/B²l²); arbitrary-shaped conductor (effective length), rod near a long wire (μ₀Iv/2π) ln(b/a) (rod ⊥ wire in a plane containing it, v ∥ wire, ends at distances a and b)
 • Rotating rod ½Bωl² and disc ½BωR² (axis parallel to uniform B), loop crossing a field region (EMF and force graphs), AC generator ε₀ = NBAω (axis perpendicular to uniform B)
 • Induced electric field ∮E·dl = −dΦ/dt (non-conservative); cylindrical region: E = (r/2)dB/dt inside, (R²/2r)dB/dt outside; eddy currents, uses and laminated cores
 • Self-inductance L = μ₀n²Al (long air-core solenoid), toroid, mutual inductance M = μ₀n₁n₂πr₁²l (coaxial solenoids), coupling M = k√(L₁L₂) with 0 ≤ k ≤ 1, series/parallel inductors
