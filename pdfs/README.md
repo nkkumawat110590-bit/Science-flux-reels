@@ -5,6 +5,7 @@ Naming: `pdfs/<chapter>/<chapter>_notes.pdf` and `pdfs/<chapter>/<chapter>_carou
 
 | Chapter | Class | Notes PDF | Carousel PDF(s) |
 |---|---|---|---|
+| Thermodynamics | 11 | [notes (32 p)](thermodynamics/thermodynamics_notes.pdf) | — |
 | Ray Optics and Optical Instruments | 12 | [notes (35 p)](ray_optics/ray_optics_notes.pdf) | — |
 | Gravitation | 11 | [notes (33 p)](gravitation/gravitation_notes.pdf) | — |
 | Kinematics | 11 | — | [formula sheet (8 p)](kinematics/kinematics_carousel_formula_sheet.pdf) |

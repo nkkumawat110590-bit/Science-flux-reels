@@ -1,0 +1,15 @@
+Thermodynamics: poora chapter, ek video mein 🔥 32 pages of revision notes + solved JEE Main and JEE Advanced level questions (Class 11, JEE Main • JEE Advanced • NEET)
+
+Inside:
+• Zeroth law, heat, work W = ∫P dV (quasi-static), internal energy ΔU = nC_VΔT (ideal gas, any process)
+• First law Q = ΔU + W with W = work done BY the gas; work = area under the P–V curve; cyclic process: ΔU = 0, W = enclosed area (clockwise on P–V means W > 0)
+• Isochoric, isobaric, isothermal W = nRT ln(V₂/V₁) and reversible adiabatic PV^γ = const, TV^(γ−1) = const (ideal gas); adiabatic slope = γ × isothermal slope at the same point; B_T = P, B_ad = γP
+• Polytropic PV^x = const: C = C_V + R/(1 − x); Mayer C_P − C_V = R (ideal gas); γ = 5/3, 7/5, 4/3 for rigid molecules (no vibration, ordinary temperature); γ of a mixture
+• P–V, V–T, P–T graphs, free expansion (Q = 0, W = 0, T constant for an ideal gas), heat engine η = 1 − Q₂/Q₁, refrigerator COP
+• Carnot η = 1 − T₂/T₁ (reversible engine between two reservoirs, T in kelvin), second law (Kelvin–Planck, Clausius), reversible vs irreversible, entropy basics
+
+Pause on any page to read it (conventions used: ideal gas, n moles fixed, W = work done by the gas, quasi-static paths on P–V graphs, R = 8.314 J/mol K, T in kelvin). Full notes PDF: comment NOTES 📩
+Free expansion mein ideal gas ka temperature kyun nahi badalta? Comment karo 👇
+Save karo, revision mein kaam aayega. Follow @science_flux_classes
+
+#physics #thermodynamics #heatengine #jeemains #jeeadvanced #neet #neetphysics #class11physics #physicsnotes #revisionnotes #jeephysics #sciencefluxclasses #studygram
