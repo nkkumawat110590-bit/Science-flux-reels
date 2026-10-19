@@ -1,0 +1,18 @@
+Kinetic Theory of Gases: poora chapter, ek video mein 🔥 29 pages of revision notes + solved JEE Main and JEE Advanced level questions (Class 11, JEE Main • JEE Advanced • NEET)
+
+Inside:
+• Ideal gas: PV = nRT = NkT (T in kelvin), gas laws for a fixed amount of gas, assumptions of the kinetic theory
+• Pressure derived from wall collisions (Δp = 2mv_x, elastic): P = (1/3)ρv_rms² = (1/3)(N/V)mv_rms²
+• Average translational KE of one molecule = (3/2)kT (ideal gas, thermal equilibrium)
+• v_rms = √(3RT/M), v̄ = √(8RT/πM), v_mp = √(2RT/M); v_mp : v̄ : v_rms = 1 : 1.128 : 1.225 (Maxwell distribution, M in kg/mol)
+• Maxwell curve, same gas: hotter → peak shifts right and gets lower, area stays 1
+• Degrees of freedom f: 3 monatomic, 5 rigid diatomic, 7 with vibration, 6 rigid non-linear; equipartition (1/2)kT per quadratic term
+• U = (f/2)nRT, C_V = (f/2)R, C_P = C_V + R (Mayer), γ = 1 + 2/f (ideal gas, f fixed); mixtures: average C_V by moles
+• Mean free path λ = 1/(√2 π d² n_V) (hard spheres); Dalton's law, Graham's law, real gases (Z vs P)
+Symbols: n = moles, N = number of molecules, n_V = N/V = number density, m = mass of one molecule, M = molar mass, ρ = density, k = Boltzmann constant, R = gas constant, T = absolute temperature, f = degrees of freedom, d = molecular diameter
+
+Pause on any page to read it (conventions: ideal gas in thermal equilibrium, T in kelvin unless stated). Full notes PDF: comment NOTES 📩
+Uniform speed se chalte container mein gas ka temperature badhta hai kya? (hint: random vs ordered motion) Comment karo 👇
+Save karo, revision mein kaam aayega. Follow @science_flux_classes
+
+#physics #kinetictheory #kinetictheoryofgases #idealgas #jeemains #jeeadvanced #neet #neetphysics #class11physics #physicsnotes #revisionnotes #jeephysics #sciencefluxclasses
