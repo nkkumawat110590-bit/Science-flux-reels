@@ -4,6 +4,7 @@ Free JEE Main / JEE Advanced / NEET physics revision notes. One complete chapter
 
 | Date | Chapter | Pages | PDF |
 |---|---|---|---|
+| 2026-10-19 | Alternating Current (35 pages, with JEE Main + Advanced level questions) | [pages](2026-10-19_ac/) | [download PDF](https://raw.githubusercontent.com/nkkumawat110590-bit/Science-flux-reels/main/notes/2026-10-19_ac/ac.pdf) |
 | 2026-10-18 | Oscillations / SHM (37 pages, with JEE Main + Advanced level questions) | [pages](2026-10-18_shm/) | [download PDF](https://raw.githubusercontent.com/nkkumawat110590-bit/Science-flux-reels/main/notes/2026-10-18_shm/shm.pdf) |
 | 2026-10-18 | Electromagnetic Induction (33 pages, with JEE Main + Advanced level questions) | [pages](2026-10-18_emi/) | [download PDF](https://raw.githubusercontent.com/nkkumawat110590-bit/Science-flux-reels/main/notes/2026-10-18_emi/emi.pdf) |
 | 2026-10-18 | Thermodynamics (32 pages, with JEE Main + Advanced level questions) | [pages](2026-10-18_thermodynamics/) | [download PDF](https://raw.githubusercontent.com/nkkumawat110590-bit/Science-flux-reels/main/notes/2026-10-18_thermodynamics/thermodynamics.pdf) |

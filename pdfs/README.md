@@ -5,6 +5,7 @@ Naming: `pdfs/<chapter>/<chapter>_notes.pdf` and `pdfs/<chapter>/<chapter>_carou
 
 | Chapter | Class | Notes PDF | Carousel PDF(s) |
 |---|---|---|---|
+| Alternating Current | 12 | [notes (35 p)](ac/ac_notes.pdf) | — |
 | Oscillations / SHM | 11 | [notes (37 p)](shm/shm_notes.pdf) | — |
 | Electromagnetic Induction | 12 | [notes (33 p)](emi/emi_notes.pdf) | — |
 | Thermodynamics | 11 | [notes (32 p)](thermodynamics/thermodynamics_notes.pdf) | — |

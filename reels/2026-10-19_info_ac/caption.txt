@@ -1,0 +1,16 @@
+Alternating Current: poora chapter, ek video mein ⚡ 35 pages of revision notes + solved JEE Main and JEE Advanced level questions (Class 12, JEE Main • JEE Advanced • NEET)
+
+Inside:
+• v = V₀ sin ωt; rms V₀/√2 (sinusoidal only); mean 2V₀/π over a positive half cycle, 0 over a full cycle; other waveforms + DC + AC
+• Pure R: in phase; ideal L: current lags by 90°, X_L = ωL; ideal C: current leads by 90°, X_C = 1/(ωC) (ω = source angular frequency)
+• Series LCR: Z = √(R² + (X_L − X_C)²), tan φ = (X_L − X_C)/R (φ > 0: current lags); rms voltages add as phasors, not as numbers
+• Series LCR, ω varied: current maximum at ω₀ = 1/√(LC) (X_L = X_C, Z = R); Q = ω₀L/R, half-power bandwidth Δω = R/L (rad/s)
+• Average power P = V_rms I_rms cos φ (sinusoidal steady state), power factor cos φ = R/Z (series circuit), wattless current I sin φ; choke coil
+• Ideal LC: ω₀ = 1/√(LC), energy q²/2C + ½Li² constant (no resistance), analogy with spring-block SHM
+• AC generator ε₀ = NBAω (axis ⊥ uniform B, constant ω); ideal transformer V_s/V_p = N_s/N_p = I_p/I_s; efficiency, losses, high-voltage transmission (loss ∝ 1/V² at fixed power sent)
+
+Pause on any page to read it (conventions: sinusoidal source, steady state, ideal L and C unless stated, rms values unless stated). Full notes PDF: comment NOTES 📩
+Moving-coil ammeter AC mein zero kyun dikhata hai, jabki bulb jal raha hai? (hint: mean vs rms) Comment karo 👇
+Save karo, revision mein kaam aayega. Follow @science_flux_classes
+
+#physics #alternatingcurrent #accircuits #lcrcircuit #jeemains #jeeadvanced #neet #neetphysics #class12physics #physicsnotes #revisionnotes #jeephysics #sciencefluxclasses
