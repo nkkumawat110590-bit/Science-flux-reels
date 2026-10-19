@@ -7,7 +7,8 @@ Inside:
 • Series LCR, ω varied: current maximum at ω₀ = 1/√(LC) (X_L = X_C, Z = R); Q = ω₀L/R, half-power bandwidth Δω = R/L (rad/s)
 • Average power P = V_rms I_rms cos φ (sinusoidal steady state), power factor cos φ = R/Z (series circuit), wattless current I sin φ; choke coil
 • Ideal LC: ω₀ = 1/√(LC), energy q²/2C + ½Li² constant (no resistance), analogy with spring-block SHM
-• AC generator ε₀ = NBAω (axis ⊥ uniform B, constant ω); ideal transformer V_s/V_p = N_s/N_p = I_p/I_s; efficiency, losses, high-voltage transmission (loss ∝ 1/V² at fixed power sent)
+• AC generator ε₀ = NBAω (axis ⊥ uniform B, constant ω); ideal transformer V_s/V_p = N_s/N_p = I_p/I_s; efficiency, losses, high-voltage transmission (loss ∝ 1/V² at fixed power sent, line resistance and power factor)
+Symbols: V₀ = peak voltage, V_rms/I_rms = rms values, X_L, X_C = reactances, Z = impedance, φ = angle by which voltage leads current, Q = quality factor, q = capacitor charge, i = current, N = turns, B = field, A = coil area, ε₀ = peak emf, p/s = primary/secondary
 
 Pause on any page to read it (conventions: sinusoidal source, steady state, ideal L and C unless stated, rms values unless stated). Full notes PDF: comment NOTES 📩
 Moving-coil ammeter AC mein zero kyun dikhata hai, jabki bulb jal raha hai? (hint: mean vs rms) Comment karo 👇
