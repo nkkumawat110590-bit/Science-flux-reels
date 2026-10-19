@@ -9,7 +9,7 @@ Inside:
 • Degrees of freedom f: 3 monatomic, 5 rigid diatomic, 7 with vibration, 6 rigid non-linear; equipartition (1/2)kT per quadratic term
 • U = (f/2)nRT, C_V = (f/2)R, C_P = C_V + R (Mayer), γ = 1 + 2/f (ideal gas, f fixed); mixtures: average C_V by moles
 • Mean free path λ = 1/(√2 π d² n_V) (hard spheres); Dalton's law, Graham's law, real gases (Z vs P)
-Symbols: n = moles, N = number of molecules, n_V = N/V = number density, m = mass of one molecule, M = molar mass, ρ = density, k = Boltzmann constant, R = gas constant, T = absolute temperature, f = degrees of freedom, d = molecular diameter
+Symbols: n = moles, N = number of molecules, n_V = N/V = number density, m = mass of one molecule, M = molar mass, ρ = density, k = Boltzmann constant, R = gas constant, T = absolute temperature, f = degrees of freedom, d = molecular diameter, C_V, C_P = molar heat capacities at constant V, P; γ = C_P/C_V; v_rms, v̄, v_mp = rms, mean, most probable speed; v_x = velocity component normal to the wall; Δp = momentum given to the wall; Z = PV/nRT (compressibility factor)
 
 Pause on any page to read it (conventions: ideal gas in thermal equilibrium, T in kelvin unless stated). Full notes PDF: comment NOTES 📩
 Uniform speed se chalte container mein gas ka temperature badhta hai kya? (hint: random vs ordered motion) Comment karo 👇
