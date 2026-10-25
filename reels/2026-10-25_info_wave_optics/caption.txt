@@ -7,13 +7,13 @@ Inside:
 • Thin sheet: shift (μ − 1)tD/d towards the covered slit; source slit moved by s: shift sD/b to the opposite side
 • Thin film in air: reflected bright when 2μt cos r = (n − ½)λ (π change at the denser surface)
 • Single slit: minima at a sinθ = nλ (n ≠ 0), central maximum 2λD/a, twice the others (Fraunhofer, small angles)
-• Resolving power: telescope Δθ = 1.22λ/D_o, microscope d_min = 1.22λ/(2μ sinβ) (Rayleigh criterion)
-• Polarisation: Malus I = I₁cos²θ (ideal polaroid), unpolarised → I₀/2; Brewster tan θ_B = μ (reflected ⊥ refracted)
+• Resolving power: telescope Δθ = 1.22λ/D_o, microscope d_min = 1.22λ/(2μ sinψ) (Rayleigh criterion)
+• Polarisation: Malus I = I_p cos²θ (I_p = plane-polarised intensity on the analyser, ideal polaroid), unpolarised → I₀/2; Brewster tan θ_B = μ (reflected ⊥ refracted)
 • Doppler for light: Δλ/λ = v_r/c (v_r ≪ c, receding → red shift)
-Symbols: λ = wavelength in vacuum/air, μ = refractive index, v = wave speed, Δx = path difference (path from S₂ − path from S₁), φ = phase difference, I₁, I₂ = intensities of the two waves, d = slit separation, D = slit-to-screen distance, y = distance from the screen centre, β = fringe width, t = sheet or film thickness, s = source-slit shift, b = source-to-slits distance, r = refraction angle inside the film, a = slit width, n = order, D_o = objective diameter, β (microscope) = half-angle of the cone, θ = angle from the axis (or between polaroid axes), I₀ = unpolarised intensity, θ_B = Brewster angle, v_r = radial speed, c = speed of light
+Symbols: λ = wavelength in vacuum/air, μ = refractive index, v = wave speed, Δx = optical path difference (S₂ path − S₁ path), φ = phase difference, I₁, I₂ = intensities of the two waves, d = slit separation, D = slit-to-screen distance, y = distance from the screen centre, β = fringe width, t = sheet/film thickness, s = source-slit shift, b = source-to-slits distance, r = refraction angle in the film, a = slit width, n = order, D_o = objective diameter, ψ = microscope half-angle, θ = angle from the axis (or between polaroid axes), I_p = plane-polarised intensity on the analyser, I₀ = unpolarised intensity, θ_B = Brewster angle, v_r = radial speed, c = speed of light
 
-Pause on any page to read it (conventions: monochromatic light, coherent sources, in air unless stated). Full notes PDF: comment NOTES 📩
+Pause to read (monochromatic, coherent, in air unless stated). Full notes PDF: comment NOTES 📩
 Paani mein YDSE karein to fringes chaudi hongi ya patli? Comment karo 👇
-Save karo, revision mein kaam aayega. Follow @science_flux_classes
+Save karo! Follow @science_flux_classes
 
-#physics #waveoptics #ydse #interference #diffraction #polarisation #jeemains #jeeadvanced #neet #neetphysics #class12physics #physicsnotes #revisionnotes #sciencefluxclasses
+#physics #waveoptics #ydse #interference #diffraction #polarisation #jeemains #jeeadvanced #neet #class12physics #physicsnotes #sciencefluxclasses
