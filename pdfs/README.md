@@ -5,6 +5,7 @@ Naming: `pdfs/<chapter>/<chapter>_notes.pdf` and `pdfs/<chapter>/<chapter>_carou
 
 | Chapter | Class | Notes PDF | Carousel PDF(s) |
 |---|---|---|---|
+| Centre of Mass, Momentum and Collisions | 11 | [notes (38 p)](com_collisions/com_collisions_notes.pdf) | — |
 | Wave Optics | 12 | [notes (36 p)](wave_optics/wave_optics_notes.pdf) | — |
 | Kinetic Theory of Gases | 11 | [notes (29 p)](ktg/ktg_notes.pdf) | — |
 | Alternating Current | 12 | [notes (35 p)](ac/ac_notes.pdf) | — |

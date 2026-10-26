@@ -1,0 +1,19 @@
+Centre of Mass, Momentum and Collisions: poora chapter, ek video mein 🔥 38 pages of revision notes + solved JEE Main and JEE Advanced level questions (Class 11, JEE + NEET)
+
+Inside:
+• Centre of mass: r_cm = Σmᵢrᵢ/M; semicircular ring 2R/π, semicircular disc 4R/3π, solid hemisphere 3R/8, solid cone h/4 from the base (uniform bodies); cavity: x_cm = (m₁x₁ − m₂x₂)/(m₁ − m₂)
+• F_ext = Ma_cm (M constant); F_ext = 0 → v_cm constant
+• Impulse J = ∫F dt = Δp = area under the F–t graph
+• Momentum conserved only when ΣF_ext = 0 (or along a direction with no external force)
+• Rocket: thrust −v_ex dm/dt, Δv = v_ex ln(m₀/m) (gravity-free, v_ex constant)
+• e = (v₂ − v₁)/(u₁ − u₂) along the line of impact; KE conserved only if e = 1
+• KE lost = ½μv_rel²(1 − e²) (head-on, no external impulse); spring: δ_max = v_rel√(μ/k) (smooth floor)
+• Equal masses, elastic, target at rest, not head-on: θ₁ + θ₂ = 90°
+• Bouncing ball (fixed floor, no drag): hₙ = e²ⁿh
+Symbols: r_cm = position of the centre of mass, mᵢ, rᵢ = mass and position of particle i, M = total mass, R = radius, h = height, m₁, m₂ = the two bodies (full body / removed part for a cavity), x₁, x₂ = their centres of mass, a_cm, v_cm = acceleration and velocity of the centre of mass, J = impulse, p = momentum, F = force, v_ex = exhaust speed relative to the rocket, m₀, m = initial and current rocket mass, e = coefficient of restitution, u₁, u₂ = velocities before, v₁, v₂ = after, μ = m₁m₂/M (reduced mass), v_rel = u₁ − u₂, k = spring constant, δ_max = maximum compression, θ₁, θ₂ = angles of the two balls after the collision, hₙ = height after the n-th bounce
+
+Pause to read (smooth surfaces, uniform g unless stated). Full notes PDF: comment NOTES 📩
+Inelastic collision mein momentum conserve hota hai ya nahi? Comment karo 👇
+Save karo! Follow @science_flux_classes
+
+#physics #centreofmass #momentum #collisions #impulse #jeemains #jeeadvanced #neet #class11physics #physicsnotes #sciencefluxclasses
