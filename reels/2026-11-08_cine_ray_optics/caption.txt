@@ -1,15 +1,18 @@
 Ray Optics ka POORA chapter, sirf 4 minute mein 🔭 Mirror se telescope tak, har ray diagram real equations se bana!
 
-✅ Reflection, spherical mirrors, NCERT sign convention aur magnification
-✅ Snell's law, refractive index, real vs apparent depth
-✅ Total internal reflection, critical angle: optical fibre, mirage, diamond
-✅ Refraction at a spherical surface, lens maker's formula, thin lens formula
-✅ Power of a lens aur lenses in contact
-✅ Prism: minimum deviation, dispersion (violet bends most), sky blue & red sunset
-✅ Human eye defects, simple & compound microscope, refracting & reflecting telescope
+✅ Reflection, spherical mirrors, Cartesian sign convention, f = R/2 aur magnification
+✅ Mirror formula 1/v + 1/u = 1/f, m = −v/u
+✅ Snell's law n₁ sin i = n₂ sin r, n = c/v, n = real/apparent depth (near-normal viewing)
+✅ Total internal reflection, n = 1/sin C: optical fibre, mirage, diamond
+✅ Spherical surface n₂/v − n₁/u = (n₂−n₁)/R, lens maker 1/f = (n−1)(1/R₁ − 1/R₂)
+✅ Lens formula 1/v − 1/u = 1/f, lens m = v/u, power P = 1/f, P = P₁ + P₂
+✅ Prism: minimum deviation, dispersion (violet bends most), I ∝ 1/λ⁴: sky blue, sunset red
+✅ Eye defects; simple microscope m = 1 + D/f (image at D); compound m = (L/fₒ)(D/fₑ) (final image at infinity); telescope m = fₒ/fₑ (normal adjustment)
 
-Symbols: 1/v + 1/u = 1/f • m = −v/u • n₁ sin i = n₂ sin r • n = c/v • n = 1/sin C • n₂/v − n₁/u = (n₂−n₁)/R • 1/f = (n−1)(1/R₁ − 1/R₂) • P = 1/f • P = P₁ + P₂ • n = sin((A+δm)/2)/sin(A/2) • I ∝ 1/λ⁴ • m = 1 + D/f • m = (L/fₒ)(D/fₑ) • m = fₒ/fₑ
+Symbols: u = object distance, v = image distance, f = focal length, R = radius of curvature, n = refractive index, i/r = angles of incidence/refraction, C = critical angle, A = prism angle, δm = minimum deviation, λ = wavelength, D = 25 cm least distance of distinct vision, L = tube length, fₒ/fₑ = objective/eyepiece focal lengths, P = power
 
 📌 SAVE karo revision ke liye aur FOLLOW karo @science_flux_classes for more Class 12 Physics chapters!
 
-#rayoptics #class12physics #physics #ncert #boardexam2027 #rbse #cbse #jeemains #neet #opticalinstruments #lensformula #mirrorformula #physicsreels #sciencefluxclasses
+💬 Comment karo: diamond itna kyun chamakta hai? Critical angle se answer do!
+
+#rayoptics #class12physics #physics #boardexam2027 #rbse #cbse #jeemains #neet #opticalinstruments #lensformula #mirrorformula #physicsreels #sciencefluxclasses
